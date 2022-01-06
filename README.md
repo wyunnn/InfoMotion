@@ -1,6 +1,5 @@
 # InfoMotion
 
-## Introduction
 By displaying visual elements logically in temporal order, animated infographics can help readers better understand layers of information expressed in an infographic. While many techniques and tools target the quick generation of static infographics, few support animation designs. We propose InfoMotion that automatically generates animated presentations of static infographics.
 
 After computing the animations applied for different shapes, animated infographics can be further synthesized. InfoMotion can also be integrated smoothly into the workflow of other infographic design tools, which can help users easily extend static designs into animated ones. 
