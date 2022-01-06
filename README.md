@@ -7,6 +7,7 @@ After computing the animations applied for different shapes, animated infographi
 We demonstrate the utility of InfoMotion in the form of PowerPoint add-ins. We believe InfoMotion opens up new opportunities for infographic animation design and authoring.
 
 To Install InfoMotion add-in, double-click the vsto file, and click "Install". The system shows "The Microsoft Office customization was successfully installed.
+To use InfoMotion, open PowerPoint and click "InfoMotion" on the header panel. InfoMotion requires at least three design elements on the slide canvas as input.
 You can uninstall the software from the control panel in windows.
 
 If you have any questions, send email to wangyun(at)microsoft.com.
